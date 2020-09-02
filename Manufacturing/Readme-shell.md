@@ -68,4 +68,4 @@ Manufacturing%2Fautomation%2FmainTemplate-shell.json" target="_blank"><img src="
 
 ### Task 4: Configuration
 
-1. TODO
+1. TODO Soon
